@@ -6,7 +6,9 @@ poetry run python src/01_hello.py
 ```
 
 ## VSCode
+
 touch .vscode/settings.json
+
 ```
 {
   "python.linting.pylintEnabled": false,
